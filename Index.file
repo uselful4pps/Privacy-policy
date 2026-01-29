@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - CCSE Nacionalidad Española</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #C75B39; margin-bottom: 10px; }
+        h2 { color: #C75B39; margin-top: 30px; margin-bottom: 15px; }
+        p { margin-bottom: 15px; }
+        ul { margin-left: 20px; margin-bottom: 15px; }
+        li { margin-bottom: 8px; }
+        .date { color: #666; font-size: 14px; margin-bottom: 30px; }
+        .contact { background: #f9f9f9; padding: 20px; border-radius: 8px; margin-top: 30px; }
+        a { color: #C75B39; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Política de Privacidad</h1>
+        <p class="date">Última actualización: 29 de enero de 2026</p>
+        <p>Esta Política de Privacidad describe cómo <strong>CCSE Nacionalidad Española</strong> recopila, usa y protege la información cuando utilizas nuestra aplicación móvil.</p>
+        <h2>1. Información que Recopilamos</h2>
+        <p>Nuestra aplicación está diseñada para respetar tu privacidad:</p>
+        <ul>
+            <li><strong>Datos de progreso:</strong> Se almacenan localmente en tu dispositivo.</li>
+            <li><strong>Preferencias:</strong> Se guardan en tu dispositivo.</li>
+            <li><strong>Datos de compra:</strong> Google Play procesa las transacciones. No almacenamos información de pago.</li>
+        </ul>
+        <h2>2. Publicidad</h2>
+        <p>Nuestra aplicación muestra anuncios de Google AdMob. Consulta la <a href="https://policies.google.com/privacy">Política de Privacidad de Google</a>. Los usuarios premium no ven anuncios.</p>
+        <h2>3. Almacenamiento de Datos</h2>
+        <p>Todos los datos se almacenan <strong>localmente en tu dispositivo</strong>. No enviamos datos a servidores externos.</p>
+        <h2>4. Compartir Información</h2>
+        <p>No vendemos tu información. Servicios de terceros utilizados:</p>
+        <ul>
+            <li><strong>Google AdMob:</strong> Para anuncios</li>
+            <li><strong>Google Play:</strong> Para compras in-app</li>
+        </ul>
+        <h2>5. Seguridad</h2>
+        <p>Implementamos medidas de seguridad para proteger tu información.</p>
+        <h2>6. Niños</h2>
+        <p>Nuestra aplicación no está dirigida a menores de 13 años.</p>
+        <h2>7. Cambios</h2>
+        <p>Podemos actualizar esta Política ocasionalmente.</p>
+        <h2>8. Tus Derechos</h2>
+        <ul>
+            <li>Eliminar datos borrando los datos de la app</li>
+            <li>Desinstalar la aplicación</li>
+            <li>Optar por no recibir anuncios personalizados</li>
+        </ul>
+        <div class="contact">
+            <h2>9. Contacto</h2>
+            <p>Email: <a href="mailto:useful4pps@gmail.com">useful4pps@gmail.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
